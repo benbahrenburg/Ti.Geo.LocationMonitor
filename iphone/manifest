@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.1.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: TiGeoLocationMonitor
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: TiGeoLocationMonitor
+moduleid: Ti.Geo.LocationMonitor
+guid: 7c43cb49-413e-4240-bb4e-207c3e044a86
+platform: iphone
+minsdk: 5.4.0.GA
